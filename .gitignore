@@ -38,8 +38,8 @@ venv.bak/
 Thumbs.db
 
 # Large data files (adjust as needed)
-*.tif
-*.tiff
+# *.tif
+# *.tiff
 #large_data.csv
 
 # backup files
