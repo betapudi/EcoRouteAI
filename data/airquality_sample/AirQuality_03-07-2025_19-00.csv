@@ -1,0 +1,6 @@
+local_time,state,city,station_name,id,latitude,longitude,AT,RH,PM2_5,PM10,CO2
+03-07-2025 19:00,Andhra Pradesh,Vizianagaram,Vizianagaram - Dharmapuri  Side,20574,18.1035665,83.4092808,25.43,85.13,28.64,87.6,436.78
+03-07-2025 19:00,Andhra Pradesh,Vizianagaram,Vizianagaram - Over Bridge,20572,18.1065395,83.3956149,26.28,88.47,29.31,94.6,423.54
+03-07-2025 19:00,Andhra Pradesh,Vizianagaram,Vizianagaram - Padatadiwada,20575,18.10589762,83.42672515,18.96,63.11,22.49,69.28,408
+03-07-2025 19:00,Andhra Pradesh,Vizianagaram,Vizianagaram - V T Agraharam,20573,18.0837569,83.3857894,27.57,93.68,40.87,110.45,446.34
+03-07-2025 19:00,Andhra Pradesh,Vizianagaram,Vizianagram -  Near collector office,20571,18.1187466,83.387686,27.13,93.76,50.1,119.91,849.96
