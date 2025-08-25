@@ -36,9 +36,9 @@ st.set_page_config(
 # INPUTS
 # -----------------------------
 city_name = "Vizianagaram"
-air_csv_path = "data/airquality_sample/AirQuality_03-07-2025_19-00.csv"
-ndvi_tif = "data/ndvi/VZ_ClrSky_NDVI_Mar2025.tif"
-elev_tif = "data/elev/VZ_ClrSky_ELEV_Mar2025.tif"
+air_csv_path = 'data/airquality_sample/AirQuality_03-07-2025_19-00.csv'
+ndvi_tif = 'data/ndvi/VZ_ClrSky_NDVI_Mar2025.tif'
+elev_tif = 'data/elev/VZ_ClrSky_ELEV_Mar2025.tif'
 
 # Load initial data if available
 if os.path.exists(air_csv_path):
@@ -221,7 +221,8 @@ def find_optimal_routes(start_point, scored_df, alpha=1.0, beta=0.5, top_n=3):
 # -----------------------------
 # SIDEBAR
 # -----------------------------
-st.sidebar.title("🌱 EcoRouteAI")
+st.sidebar.title("GEOINFY")
+st.sidebar.subheader("🌱 EcoRouteAI")
 st.sidebar.subheader("Navigation")
 
 page = st.sidebar.radio("Go to", ["📥 Upload Data", "📊 Dashboard", "🗺️ Map View", "🛣️ Route Planner", "⚙️ Settings"])
