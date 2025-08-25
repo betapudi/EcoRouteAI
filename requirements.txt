@@ -1,26 +1,26 @@
 # Core
-streamlit==1.32.2
-pandas==2.2.2
-numpy==2.0.2
+streamlit
+pandas
+numpy
 
 # Geo & Raster
-geopandas==0.14.4
-shapely==2.0.4
-rasterio==1.3.10
-folium==0.16.0
-streamlit-folium==0.15.2
-pydeck==0.9.1
-branca==0.7.2
+geopandas
+shapely
+rasterio
+folium
+streamlit-folium
+pydeck
+branca
 
 # ML
-lightgbm==4.5.0
-scikit-learn==1.5.1
-joblib==1.4.2
+lightgbm
+scikit-learn
+joblib
 
 # Graphs / Routing
-networkx==3.3
-osmnx==1.9.4
+networkx
+osmnx
 
 # Utilities
-requests==2.32.3
-tqdm==4.66.5
+requests
+tqdm
